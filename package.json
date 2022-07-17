@@ -1,13 +1,20 @@
 {
+<<<<<<< HEAD
   "name": "cla-hands-on-node",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a description",
+>>>>>>> upstream/main
   "main": "1-path.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/mahdid-lilia/cla-hands-on-node-js.git"
   },
   "author": "Lilia",
@@ -16,6 +23,16 @@
     "url": "https://github.com/mahdid-lilia/cla-hands-on-node-js/issues"
   },
   "homepage": "https://github.com/mahdid-lilia/cla-hands-on-node-js#readme",
+=======
+    "url": "git+https://github.com/clawebdevbootcamp/cla-hands-on-node-js.git"
+  },
+  "author": "Abir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clawebdevbootcamp/cla-hands-on-node-js/issues"
+  },
+  "homepage": "https://github.com/clawebdevbootcamp/cla-hands-on-node-js#readme",
+>>>>>>> upstream/main
   "dependencies": {
     "generate-password": "^1.7.0",
     "nodemon": "^2.0.19"
